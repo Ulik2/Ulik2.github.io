@@ -5,7 +5,7 @@ title:  "2021.04.27. Learning Log"
 
 # Kewords
 
-- 메모리의 저장구조
+- 메모리의 저장구조 \
 (Top)        machine code
              global
              heap
