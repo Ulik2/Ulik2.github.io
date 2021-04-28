@@ -3,7 +3,7 @@ layout: post
 title:  "2021.04.27. Learning Log"
 ---
 
-# Kewords
+# Keywords
 
 - 메모리의 저장구조  
 (Top)        machine code  
