@@ -5,17 +5,17 @@ title:  "2021.04.27. Learning Log"
 
 # Kewords
 
-- 메모리의 저장구조 \n
-(Top)        machine code \n
-             global \n
-             heap \n
-(Bottom)     stack \n
+- 메모리의 저장구조  
+(Top)        machine code  
+             global  
+             heap  
+(Bottom)     stack  
 
--포인터의 의미 \n
-(*와 &의 쓰임) \n
--get_string의 구성 \n
--FILE이라는 자료형 \n
--fopen("", "a || r || w") \n
+-포인터의 의미  
+(*와 &의 쓰임)  
+-get_string의 구성  
+-FILE이라는 자료형  
+-fopen("", "a || r || w")  
 -fprintf, fclose
 
 
