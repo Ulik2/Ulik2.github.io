@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2021.04.27. Learning Log"
+title:  "2021.04.26. Learning Log"
 ---
 
 # Keywords
