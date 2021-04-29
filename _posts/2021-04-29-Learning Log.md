@@ -13,15 +13,15 @@ title:  "2021.04.29. Learning Log"
 4. 배열  
 5. toupper(ctype.h에 있음)  
 6. 명령행인자  
-7. 온점(.)의 의미  
- + 구조체의 활용  
--> 여기서 string을 char*로 바꾸어서 생각  
+7. 온점(.)의 의미   
 8. stcmp / strcpy  
 9. 재귀 오개념 고치기  
 10. Theta  
 11. get_string과 get_int의 실체 : scanf  
 12. fopen, fprintf , fclose  
 13. 배열의 크기늘림: realloc활용  
+14. + 구조체의 활용  
+-> 여기서 string을 char*로 바꾸어서 생각  
   
 - 오늘 새롭게 배운내용  
   
